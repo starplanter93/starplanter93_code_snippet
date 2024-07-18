@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Environment variable files
+.env
+.env.*.local
+
+# IDE specific files
+.idea/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore eslint cache
+.eslintcache
+
+# Ignore lock files
+package-lock.json
+yarn.lock
